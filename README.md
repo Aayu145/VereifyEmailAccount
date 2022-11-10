@@ -1,1 +1,1 @@
-# VereifyEmailAccount
+# VerifyEmailAccount
